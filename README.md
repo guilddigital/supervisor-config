@@ -3,7 +3,7 @@ In the context of refugee settings, Community health work often falls on the sho
 Significant burden is on VHTs, manifesting in various challenges such as;
   Excessive workloads-a high number of clients to care for
   vast catchment areas to cover
-  Exacerbated by the lack of adequate supervision 
+  exacerbated by the lack of adequate supervision 
   Insufficient provision of materials and economic support
 Consequently, the need for effective supervision becomes paramount in strengthening the community health system within the refugee setting.
 
