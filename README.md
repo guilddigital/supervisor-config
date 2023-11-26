@@ -39,3 +39,5 @@ npm run unittest
 
 4. **Setup and Teardown:**
     - Use `before` and `after` hooks for any necessary setup or teardown tasks.
+
+**Note:** The test script in `package.json` is configured to run Mocha tests with the CHT Harness
