@@ -1,4 +1,4 @@
-# Superior_app Content
+# Superior config
 In the context of refugee settings, Community health work often falls on the shoulders of Voluntary Health Teams (VHTs). 
 Significant burden is on VHTs, manifesting in various challenges such as;
   Excessive workloads-a high number of clients to care for
